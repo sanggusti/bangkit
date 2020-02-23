@@ -4,3 +4,4 @@ Game of Thrones
 Death Note
 
 This is the new line in master branch
+This is new line in new_branch
